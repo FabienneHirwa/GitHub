@@ -9,4 +9,4 @@ a website where users may enter a GitHub username into a form, submit it, and se
 - Click on search to see your profile, username, your followers, people you followed and also your public repos.
 - If you want to see your repositories click on the button "Your repository"
 # Link to deployment
-https://fabiennehirwa.github.io/GitSearch/
+https://fabiennehirwa.github.io/Github-search/
